@@ -230,145 +230,6 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "ARK",
-          "prestige" : "70",
-          "hexColor" : "#AC0025",
-          "rival" : "MIST",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "47",
-            "ratOff" : "66",
-            "cumulativePrestige" : "1",
-            "ratDef" : "60",
-            "homeState" : "Florida",
-            "ratPot" : "91",
-            "ratTalent" : "57",
-            "baselinePrestige" : "70",
-            "name" : "Sam Pittman",
-            "contractYear" : "1"
-          },
-          "name" : "Arkansas Razorbacks",
-          "state" : "Arkansas"
-        },
-        {
-          "abbreviation" : "SC",
-          "prestige" : "80",
-          "hexColor" : "#680000",
-          "rival" : "COST",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "59",
-            "ratOff" : "74",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "76",
-            "homeState" : "New Mexico",
-            "ratPot" : "58",
-            "ratTalent" : "52",
-            "baselinePrestige" : "65",
-            "name" : "Shane Beamer",
-            "contractYear" : "1"
-          },
-          "name" : "South Carolina Gamecocks",
-          "state" : "South Carolina"
-        },
-        {
-          "abbreviation" : "VAN",
-          "prestige" : "70",
-          "hexColor" : "#AA7321",
-          "rival" : "BYU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "45",
-            "ratOff" : "61",
-            "cumulativePrestige" : "2",
-            "ratDef" : "70",
-            "homeState" : "American Samoa",
-            "ratPot" : "50",
-            "ratTalent" : "55",
-            "baselinePrestige" : "55",
-            "name" : "Clark Lea",
-            "contractYear" : "1"
-          },
-          "name" : "Vanderbuilt Commodores",
-          "state" : "Tennessee"
-        },
-        {
-          "abbreviation" : "MSST",
-          "prestige" : "75",
-          "hexColor" : "#670600",
-          "rival" : "ARK",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "43",
-            "ratOff" : "69",
-            "cumulativePrestige" : "-11",
-            "ratDef" : "59",
-            "homeState" : "Kentucky",
-            "ratPot" : "93",
-            "ratTalent" : "75",
-            "baselinePrestige" : "65",
-            "name" : "Jeff Lebby",
-            "contractYear" : "1"
-          },
-          "name" : "Mississippi State Bulldogs",
-          "state" : "Mississippi"
-        },
-        {
-          "abbreviation" : "UK",
-          "prestige" : "80",
-          "hexColor" : "#0000FF",
-          "rival" : "TENN",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "37",
-            "ratOff" : "47",
-            "cumulativePrestige" : "-8",
-            "ratDef" : "55",
-            "homeState" : "Indiana",
-            "ratPot" : "96",
-            "ratTalent" : "51",
-            "baselinePrestige" : "50",
-            "name" : "Mark Stoops",
-            "contractYear" : "1"
-          },
-          "name" : "Kentucky Wildcats",
-          "state" : "Kentucky"
-        },
-        {
-          "abbreviation" : "BG",
-          "prestige" : "50",
-          "hexColor" : "#E86000",
-          "rival" : "AKR",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "60",
-            "ratOff" : "65",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "59",
-            "homeState" : "Colorado",
-            "ratPot" : "51",
-            "ratTalent" : "74",
-            "baselinePrestige" : "50",
-            "name" : "Scot Loeffler",
-            "contractYear" : "1"
-          },
-          "name" : "Bowling Green Falcons",
-          "state" : "Kentucky"
-        }
-      ],
-      "confFullName" : "SEC North",
-      "confPrestige" : "80",
-      "confName" : "SECN"
-    },
-    {
-      "confTeams" : [
-        {
           "abbreviation" : "UM",
           "prestige" : "90",
           "hexColor" : "#00005C",
@@ -596,168 +457,6 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "MINN",
-          "prestige" : "77",
-          "hexColor" : "#780000",
-          "rival" : "WIS",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "39",
-            "ratOff" : "58",
-            "cumulativePrestige" : "-13",
-            "ratDef" : "64",
-            "homeState" : "District of Columbia",
-            "ratPot" : "91",
-            "ratTalent" : "44",
-            "baselinePrestige" : "70",
-            "name" : "P.J Fleck",
-            "contractYear" : "1"
-          },
-          "name" : "Minnesota Golden Gophers",
-          "state" : "Minnesota"
-        },
-        {
-          "abbreviation" : "IND",
-          "prestige" : "75",
-          "hexColor" : "#D00000",
-          "rival" : "NWU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "54",
-            "ratOff" : "75",
-            "cumulativePrestige" : "2",
-            "ratDef" : "70",
-            "homeState" : "Virginia",
-            "ratPot" : "72",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "name" : "Curt Cignetti",
-            "contractYear" : "1"
-          },
-          "name" : "Indiana Hoosiers",
-          "state" : "Indiana"
-        },
-        {
-          "abbreviation" : "MARY",
-          "prestige" : "76",
-          "hexColor" : "#FF0000",
-          "rival" : "IOWA",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "45",
-            "ratOff" : "60",
-            "cumulativePrestige" : "-6",
-            "ratDef" : "72",
-            "homeState" : "Michigan",
-            "ratPot" : "79",
-            "ratTalent" : "62",
-            "baselinePrestige" : "65",
-            "name" : "Mike Locksley",
-            "contractYear" : "1"
-          },
-          "name" : "Maryland Terraphins",
-          "state" : "Maryland"
-        },
-        {
-          "abbreviation" : "NWU",
-          "prestige" : "70",
-          "hexColor" : "#7300C4",
-          "rival" : "IND",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "40",
-            "ratOff" : "78",
-            "cumulativePrestige" : "2",
-            "ratDef" : "77",
-            "homeState" : "Oregon",
-            "ratPot" : "99",
-            "ratTalent" : "54",
-            "baselinePrestige" : "45",
-            "name" : "David Braun",
-            "contractYear" : "1"
-          },
-          "name" : "Northwestern Wildcats",
-          "state" : "Illinois"
-        },
-        {
-          "abbreviation" : "PUR",
-          "prestige" : "80",
-          "hexColor" : "#FF0031",
-          "rival" : "NMSU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "54",
-            "ratOff" : "63",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "74",
-            "homeState" : "Rhode Island",
-            "ratPot" : "71",
-            "ratTalent" : "80",
-            "baselinePrestige" : "50",
-            "name" : "Ryan Walters",
-            "contractYear" : "1"
-          },
-          "name" : "Purdue Boilermakers",
-          "state" : "Indiana"
-        },
-        {
-          "abbreviation" : "WF",
-          "prestige" : "80",
-          "hexColor" : "#FFD700",
-          "rival" : "DUKE",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "38",
-            "ratOff" : "56",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "63",
-            "homeState" : "Colorado",
-            "ratPot" : "68",
-            "ratTalent" : "75",
-            "baselinePrestige" : "60",
-            "name" : "Dave Clawson",
-            "contractYear" : "1"
-          },
-          "name" : "Wake Forest Deamon Deacons",
-          "state" : "North Carolina"
-        },
-        {
-          "abbreviation" : "NCSU",
-          "prestige" : "80",
-          "hexColor" : "#F10000",
-          "rival" : "UNC",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "56",
-            "ratOff" : "64",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "66",
-            "homeState" : "Kentucky",
-            "ratPot" : "94",
-            "ratTalent" : "85",
-            "baselinePrestige" : "50",
-            "name" : "Dave Doeren",
-            "contractYear" : "1"
-          },
-          "name" : "NC State Wolfpack",
-          "state" : "North Carolina"
-        },
-        
-      ],
-      "confFullName" : "Big 10 South",
-      "confPrestige" : "75",
-      "confName" : "B1GS"
-    },
-    {
-      "confTeams" : [
-        {
           "abbreviation" : "CAL",
           "prestige" : "75",
           "hexColor" : "#000051",
@@ -979,7 +678,7 @@
         }
       ],
       "confFullName" : "ACC",
-      "confPrestige" : "80",
+      "confPrestige" : "85",
       "confName" : "ACC"
     },
     {
@@ -1206,7 +905,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "90",
+      "confPrestige" : "95",
       "confName" : "XII"
     },
     {
@@ -1433,8 +1132,309 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "80",
+      "confPrestige" : "85",
       "confName" : "PAC12"
+    },
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "ARK",
+          "prestige" : "70",
+          "hexColor" : "#AC0025",
+          "rival" : "MIST",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "47",
+            "ratOff" : "66",
+            "cumulativePrestige" : "1",
+            "ratDef" : "60",
+            "homeState" : "Florida",
+            "ratPot" : "91",
+            "ratTalent" : "57",
+            "baselinePrestige" : "70",
+            "name" : "Sam Pittman",
+            "contractYear" : "1"
+          },
+          "name" : "Arkansas Razorbacks",
+          "state" : "Arkansas"
+        },
+        {
+          "abbreviation" : "SC",
+          "prestige" : "80",
+          "hexColor" : "#680000",
+          "rival" : "COST",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "59",
+            "ratOff" : "74",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "76",
+            "homeState" : "New Mexico",
+            "ratPot" : "58",
+            "ratTalent" : "52",
+            "baselinePrestige" : "65",
+            "name" : "Shane Beamer",
+            "contractYear" : "1"
+          },
+          "name" : "South Carolina Gamecocks",
+          "state" : "South Carolina"
+        },
+        {
+          "abbreviation" : "VAN",
+          "prestige" : "70",
+          "hexColor" : "#AA7321",
+          "rival" : "BYU",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "45",
+            "ratOff" : "61",
+            "cumulativePrestige" : "2",
+            "ratDef" : "70",
+            "homeState" : "American Samoa",
+            "ratPot" : "50",
+            "ratTalent" : "55",
+            "baselinePrestige" : "55",
+            "name" : "Clark Lea",
+            "contractYear" : "1"
+          },
+          "name" : "Vanderbuilt Commodores",
+          "state" : "Tennessee"
+        },
+        {
+          "abbreviation" : "MSST",
+          "prestige" : "75",
+          "hexColor" : "#670600",
+          "rival" : "ARK",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "43",
+            "ratOff" : "69",
+            "cumulativePrestige" : "-11",
+            "ratDef" : "59",
+            "homeState" : "Kentucky",
+            "ratPot" : "93",
+            "ratTalent" : "75",
+            "baselinePrestige" : "65",
+            "name" : "Jeff Lebby",
+            "contractYear" : "1"
+          },
+          "name" : "Mississippi State Bulldogs",
+          "state" : "Mississippi"
+        },
+        {
+          "abbreviation" : "UK",
+          "prestige" : "80",
+          "hexColor" : "#0000FF",
+          "rival" : "TENN",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "37",
+            "ratOff" : "47",
+            "cumulativePrestige" : "-8",
+            "ratDef" : "55",
+            "homeState" : "Indiana",
+            "ratPot" : "96",
+            "ratTalent" : "51",
+            "baselinePrestige" : "50",
+            "name" : "Mark Stoops",
+            "contractYear" : "1"
+          },
+          "name" : "Kentucky Wildcats",
+          "state" : "Kentucky"
+        },
+        {
+          "abbreviation" : "BG",
+          "prestige" : "50",
+          "hexColor" : "#E86000",
+          "rival" : "AKR",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "60",
+            "ratOff" : "65",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "59",
+            "homeState" : "Colorado",
+            "ratPot" : "51",
+            "ratTalent" : "74",
+            "baselinePrestige" : "50",
+            "name" : "Scot Loeffler",
+            "contractYear" : "1"
+          },
+          "name" : "Bowling Green Falcons",
+          "state" : "Kentucky"
+        }
+      ],
+      "confFullName" : "SEC North",
+      "confPrestige" : "80",
+      "confName" : "SECN"
+    },
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "MINN",
+          "prestige" : "77",
+          "hexColor" : "#780000",
+          "rival" : "WIS",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "39",
+            "ratOff" : "58",
+            "cumulativePrestige" : "-13",
+            "ratDef" : "64",
+            "homeState" : "District of Columbia",
+            "ratPot" : "91",
+            "ratTalent" : "44",
+            "baselinePrestige" : "70",
+            "name" : "P.J Fleck",
+            "contractYear" : "1"
+          },
+          "name" : "Minnesota Golden Gophers",
+          "state" : "Minnesota"
+        },
+        {
+          "abbreviation" : "IND",
+          "prestige" : "75",
+          "hexColor" : "#D00000",
+          "rival" : "NWU",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "54",
+            "ratOff" : "75",
+            "cumulativePrestige" : "2",
+            "ratDef" : "70",
+            "homeState" : "Virginia",
+            "ratPot" : "72",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "name" : "Curt Cignetti",
+            "contractYear" : "1"
+          },
+          "name" : "Indiana Hoosiers",
+          "state" : "Indiana"
+        },
+        {
+          "abbreviation" : "MARY",
+          "prestige" : "76",
+          "hexColor" : "#FF0000",
+          "rival" : "IOWA",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "45",
+            "ratOff" : "60",
+            "cumulativePrestige" : "-6",
+            "ratDef" : "72",
+            "homeState" : "Michigan",
+            "ratPot" : "79",
+            "ratTalent" : "62",
+            "baselinePrestige" : "65",
+            "name" : "Mike Locksley",
+            "contractYear" : "1"
+          },
+          "name" : "Maryland Terraphins",
+          "state" : "Maryland"
+        },
+        {
+          "abbreviation" : "NWU",
+          "prestige" : "70",
+          "hexColor" : "#7300C4",
+          "rival" : "IND",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "40",
+            "ratOff" : "78",
+            "cumulativePrestige" : "2",
+            "ratDef" : "77",
+            "homeState" : "Oregon",
+            "ratPot" : "99",
+            "ratTalent" : "54",
+            "baselinePrestige" : "45",
+            "name" : "David Braun",
+            "contractYear" : "1"
+          },
+          "name" : "Northwestern Wildcats",
+          "state" : "Illinois"
+        },
+        {
+          "abbreviation" : "PUR",
+          "prestige" : "80",
+          "hexColor" : "#FF0031",
+          "rival" : "NMSU",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "54",
+            "ratOff" : "63",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "74",
+            "homeState" : "Rhode Island",
+            "ratPot" : "71",
+            "ratTalent" : "80",
+            "baselinePrestige" : "50",
+            "name" : "Ryan Walters",
+            "contractYear" : "1"
+          },
+          "name" : "Purdue Boilermakers",
+          "state" : "Indiana"
+        },
+        {
+          "abbreviation" : "WF",
+          "prestige" : "80",
+          "hexColor" : "#FFD700",
+          "rival" : "DUKE",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "38",
+            "ratOff" : "56",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "63",
+            "homeState" : "Colorado",
+            "ratPot" : "68",
+            "ratTalent" : "75",
+            "baselinePrestige" : "60",
+            "name" : "Dave Clawson",
+            "contractYear" : "1"
+          },
+          "name" : "Wake Forest Deamon Deacons",
+          "state" : "North Carolina"
+        },
+        {
+          "abbreviation" : "NCSU",
+          "prestige" : "80",
+          "hexColor" : "#F10000",
+          "rival" : "UNC",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "56",
+            "ratOff" : "64",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "66",
+            "homeState" : "Kentucky",
+            "ratPot" : "94",
+            "ratTalent" : "85",
+            "baselinePrestige" : "50",
+            "name" : "Dave Doeren",
+            "contractYear" : "1"
+          },
+          "name" : "NC State Wolfpack",
+          "state" : "North Carolina"
+        },
+        
+      ],
+      "confFullName" : "Big 10 South",
+      "confPrestige" : "75",
+      "confName" : "B1GS"
     },
     {
       "confTeams" : [
