@@ -223,6 +223,35 @@
           "state" : "Oklahoma"
         },
         {
+          "abbreviation" : "OM",
+          "prestige" : "90",
+          "hexColor" : "#580000",
+          "rival" : "COL",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "51",
+            "ratOff" : "60",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "68",
+            "homeState" : "California",
+            "ratPot" : "61",
+            "ratTalent" : "72",
+            "baselinePrestige" : "55",
+            "name" : "Lane Kiffin",
+            "contractYear" : "1"
+          },
+          "name" : "Ole Miss Rebels ",
+          "state" : "Mississippi"
+        }
+      ],
+      "confFullName" : "SEC South",
+      "confPrestige" : "90",
+      "confName" : "SECS"
+    },
+    {
+      "confTeams" : [
+        {
           "abbreviation" : "SC",
           "prestige" : "80",
           "hexColor" : "#680000",
@@ -309,33 +338,11 @@
           },
           "name" : "Kentucky Wildcats",
           "state" : "Kentucky"
-        },
-        {
-          "abbreviation" : "OM",
-          "prestige" : "90",
-          "hexColor" : "#580000",
-          "rival" : "COL",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "51",
-            "ratOff" : "60",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "68",
-            "homeState" : "California",
-            "ratPot" : "61",
-            "ratTalent" : "72",
-            "baselinePrestige" : "55",
-            "name" : "Lane Kiffin",
-            "contractYear" : "1"
-          },
-          "name" : "Ole Miss Rebels ",
-          "state" : "Mississippi"
         }
       ],
-      "confFullName" : "SEC",
+      "confFullName" : "SEC North",
       "confPrestige" : "90",
-      "confName" : "SEC"
+      "confName" : "SECN"
     },
     {
       "confTeams" : [
@@ -450,116 +457,6 @@
           "state" : "Pennsylvania"
         },
         {
-          "abbreviation" : "MINN",
-          "prestige" : "77",
-          "hexColor" : "#780000",
-          "rival" : "WIS",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "39",
-            "ratOff" : "58",
-            "cumulativePrestige" : "-13",
-            "ratDef" : "64",
-            "homeState" : "District of Columbia",
-            "ratPot" : "91",
-            "ratTalent" : "44",
-            "baselinePrestige" : "70",
-            "name" : "P.J Fleck",
-            "contractYear" : "1"
-          },
-          "name" : "Minnesota Golden Gophers",
-          "state" : "Minnesota"
-        },
-        {
-          "abbreviation" : "IND",
-          "prestige" : "75",
-          "hexColor" : "#D00000",
-          "rival" : "NWU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "54",
-            "ratOff" : "75",
-            "cumulativePrestige" : "2",
-            "ratDef" : "70",
-            "homeState" : "Virginia",
-            "ratPot" : "72",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "name" : "Curt Cignetti",
-            "contractYear" : "1"
-          },
-          "name" : "Indiana Hoosiers",
-          "state" : "Indiana"
-        },
-        {
-          "abbreviation" : "MARY",
-          "prestige" : "76",
-          "hexColor" : "#FF0000",
-          "rival" : "IOWA",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "45",
-            "ratOff" : "60",
-            "cumulativePrestige" : "-6",
-            "ratDef" : "72",
-            "homeState" : "Michigan",
-            "ratPot" : "79",
-            "ratTalent" : "62",
-            "baselinePrestige" : "65",
-            "name" : "Mike Locksley",
-            "contractYear" : "1"
-          },
-          "name" : "Maryland Terraphins",
-          "state" : "Maryland"
-        },
-        {
-          "abbreviation" : "IOWA",
-          "prestige" : "83",
-          "hexColor" : "#FFD200",
-          "rival" : "MARY",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "55",
-            "ratOff" : "67",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "64",
-            "homeState" : "New York",
-            "ratPot" : "87",
-            "ratTalent" : "49",
-            "baselinePrestige" : "55",
-            "name" : "Kirk Ferentz",
-            "contractYear" : "1"
-          },
-          "name" : "Iowa Hawkeyes",
-          "state" : "Iowa"
-        },
-        {
-          "abbreviation" : "NWU",
-          "prestige" : "70",
-          "hexColor" : "#7300C4",
-          "rival" : "IND",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "40",
-            "ratOff" : "78",
-            "cumulativePrestige" : "2",
-            "ratDef" : "77",
-            "homeState" : "Oregon",
-            "ratPot" : "99",
-            "ratTalent" : "54",
-            "baselinePrestige" : "45",
-            "name" : "David Braun",
-            "contractYear" : "1"
-          },
-          "name" : "Northwestern Wildcats",
-          "state" : "Illinois"
-        },
-        {
           "abbreviation" : "ORE",
           "prestige" : "92",
           "hexColor" : "#00573C",
@@ -648,6 +545,123 @@
           "state" : "Washington"
         },
         {
+          "abbreviation" : "IOWA",
+          "prestige" : "83",
+          "hexColor" : "#FFD200",
+          "rival" : "MARY",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "55",
+            "ratOff" : "67",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "64",
+            "homeState" : "New York",
+            "ratPot" : "87",
+            "ratTalent" : "49",
+            "baselinePrestige" : "55",
+            "name" : "Kirk Ferentz",
+            "contractYear" : "1"
+          },
+          "name" : "Iowa Hawkeyes",
+          "state" : "Iowa"
+        }
+      ],
+      "confFullName" : "Big 10 North",
+      "confPrestige" : "90",
+      "confName" : "B1GN"
+    },
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "MINN",
+          "prestige" : "77",
+          "hexColor" : "#780000",
+          "rival" : "WIS",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "39",
+            "ratOff" : "58",
+            "cumulativePrestige" : "-13",
+            "ratDef" : "64",
+            "homeState" : "District of Columbia",
+            "ratPot" : "91",
+            "ratTalent" : "44",
+            "baselinePrestige" : "70",
+            "name" : "P.J Fleck",
+            "contractYear" : "1"
+          },
+          "name" : "Minnesota Golden Gophers",
+          "state" : "Minnesota"
+        },
+        {
+          "abbreviation" : "IND",
+          "prestige" : "75",
+          "hexColor" : "#D00000",
+          "rival" : "NWU",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "54",
+            "ratOff" : "75",
+            "cumulativePrestige" : "2",
+            "ratDef" : "70",
+            "homeState" : "Virginia",
+            "ratPot" : "72",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "name" : "Curt Cignetti",
+            "contractYear" : "1"
+          },
+          "name" : "Indiana Hoosiers",
+          "state" : "Indiana"
+        },
+        {
+          "abbreviation" : "MARY",
+          "prestige" : "76",
+          "hexColor" : "#FF0000",
+          "rival" : "IOWA",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "45",
+            "ratOff" : "60",
+            "cumulativePrestige" : "-6",
+            "ratDef" : "72",
+            "homeState" : "Michigan",
+            "ratPot" : "79",
+            "ratTalent" : "62",
+            "baselinePrestige" : "65",
+            "name" : "Mike Locksley",
+            "contractYear" : "1"
+          },
+          "name" : "Maryland Terraphins",
+          "state" : "Maryland"
+        },
+        {
+          "abbreviation" : "NWU",
+          "prestige" : "70",
+          "hexColor" : "#7300C4",
+          "rival" : "IND",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "40",
+            "ratOff" : "78",
+            "cumulativePrestige" : "2",
+            "ratDef" : "77",
+            "homeState" : "Oregon",
+            "ratPot" : "99",
+            "ratTalent" : "54",
+            "baselinePrestige" : "45",
+            "name" : "David Braun",
+            "contractYear" : "1"
+          },
+          "name" : "Northwestern Wildcats",
+          "state" : "Illinois"
+        },
+        {
           "abbreviation" : "PUR",
           "prestige" : "80",
           "hexColor" : "#FF0031",
@@ -668,11 +682,55 @@
           },
           "name" : "Purdue Boilermakers",
           "state" : "Indiana"
-        }
+        },
+        {
+          "abbreviation" : "WF",
+          "prestige" : "80",
+          "hexColor" : "#FFD700",
+          "rival" : "DUKE",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "38",
+            "ratOff" : "56",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "63",
+            "homeState" : "Colorado",
+            "ratPot" : "68",
+            "ratTalent" : "75",
+            "baselinePrestige" : "60",
+            "name" : "Dave Clawson",
+            "contractYear" : "1"
+          },
+          "name" : "Wake Forest Deamon Deacons",
+          "state" : "North Carolina"
+        },
+        {
+          "abbreviation" : "NCSU",
+          "prestige" : "80",
+          "hexColor" : "#F10000",
+          "rival" : "UNC",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "56",
+            "ratOff" : "64",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "66",
+            "homeState" : "Kentucky",
+            "ratPot" : "94",
+            "ratTalent" : "85",
+            "baselinePrestige" : "50",
+            "name" : "Dave Doeren",
+            "contractYear" : "1"
+          },
+          "name" : "NC State Wolfpack",
+          "state" : "North Carolina"
+        },
       ],
-      "confFullName" : "Big 10",
-      "confPrestige" : "90",
-      "confName" : "B1G"
+      "confFullName" : "Big 10 South",
+      "confPrestige" : "75",
+      "confName" : "B1GS"
     },
     {
       "confTeams" : [
@@ -875,50 +933,6 @@
           "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "WF",
-          "prestige" : "80",
-          "hexColor" : "#FFD700",
-          "rival" : "DUKE",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "38",
-            "ratOff" : "56",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "63",
-            "homeState" : "Colorado",
-            "ratPot" : "68",
-            "ratTalent" : "75",
-            "baselinePrestige" : "60",
-            "name" : "Dave Clawson",
-            "contractYear" : "1"
-          },
-          "name" : "Wake Forest Deamon Deacons",
-          "state" : "North Carolina"
-        },
-        {
-          "abbreviation" : "NCSU",
-          "prestige" : "80",
-          "hexColor" : "#F10000",
-          "rival" : "UNC",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "56",
-            "ratOff" : "64",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "66",
-            "homeState" : "Kentucky",
-            "ratPot" : "94",
-            "ratTalent" : "85",
-            "baselinePrestige" : "50",
-            "name" : "Dave Doeren",
-            "contractYear" : "1"
-          },
-          "name" : "NC State Wolfpack",
-          "state" : "North Carolina"
-        },
-        {
           "abbreviation" : "DUKE",
           "prestige" : "74",
           "hexColor" : "#0019BD",
@@ -978,8 +992,8 @@
             "contractLength" : "10",
             "startYear" : "2024",
             "age" : "35",
-            "ratOff" : "70",
-            "cumulativePrestige" : "95",
+            "ratOff" : "105",
+            "cumulativePrestige" : "100",
             "ratDef" : "105",
             "homeState" : "Georgia",
             "ratPot" : "105",
@@ -990,28 +1004,6 @@
           },
           "name" : "Utah Utes",
           "state" : "Utah"
-        },
-        {
-          "abbreviation" : "COL",
-          "prestige" : "75",
-          "hexColor" : "#9E7500",
-          "rival" : "UMA",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "47",
-            "ratOff" : "73",
-            "cumulativePrestige" : "2",
-            "ratDef" : "65",
-            "homeState" : "Texas",
-            "ratPot" : "81",
-            "ratTalent" : "57",
-            "baselinePrestige" : "70",
-            "name" : "Deion Sanders",
-            "contractYear" : "1"
-          },
-          "name" : "Colorado Buffaloes",
-          "state" : "Colorado"
         },
         {
           "abbreviation" : "ASU",
@@ -1146,28 +1138,6 @@
           "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "ISU",
-          "prestige" : "75",
-          "hexColor" : "#B50038",
-          "rival" : "ARMY",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "37",
-            "ratOff" : "66",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "81",
-            "homeState" : "Montana",
-            "ratPot" : "66",
-            "ratTalent" : "81",
-            "baselinePrestige" : "60",
-            "name" : "Matt Campbell",
-            "contractYear" : "1"
-          },
-          "name" : "Iowa State Cyclones",
-          "state" : "Iowa"
-        },
-        {
           "abbreviation" : "KSU",
           "prestige" : "85",
           "hexColor" : "#8800B4",
@@ -1210,36 +1180,36 @@
           },
           "name" : "Kansas Jayhawks",
           "state" : "Kansas"
-        },
-        {
-          "abbreviation" : "ARMY",
-          "prestige" : "70",
-          "hexColor" : "#917826",
-          "rival" : "ISU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "46",
-            "ratOff" : "66",
-            "cumulativePrestige" : "2",
-            "ratDef" : "66",
-            "homeState" : "Rhode Island",
-            "ratPot" : "83",
-            "ratTalent" : "87",
-            "baselinePrestige" : "50",
-            "name" : "Jeff Monken",
-            "contractYear" : "1"
-          },
-          "name" : "Army Black Knights",
-          "state" : "New York"
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "85",
+      "confPrestige" : "90",
       "confName" : "XII"
     },
     {
       "confTeams" : [
+        {
+          "abbreviation" : "COL",
+          "prestige" : "75",
+          "hexColor" : "#9E7500",
+          "rival" : "UMA",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "47",
+            "ratOff" : "73",
+            "cumulativePrestige" : "2",
+            "ratDef" : "65",
+            "homeState" : "Texas",
+            "ratPot" : "81",
+            "ratTalent" : "57",
+            "baselinePrestige" : "70",
+            "name" : "Deion Sanders",
+            "contractYear" : "1"
+          },
+          "name" : "Colorado Buffaloes",
+          "state" : "Colorado"
+        },
         {
           "abbreviation" : "ORST",
           "prestige" : "65",
@@ -1283,6 +1253,50 @@
           },
           "name" : "Washington State Cougers",
           "state" : "Washington"
+        },
+        {
+          "abbreviation" : "ISU",
+          "prestige" : "75",
+          "hexColor" : "#B50038",
+          "rival" : "ARMY",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "37",
+            "ratOff" : "66",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "81",
+            "homeState" : "Montana",
+            "ratPot" : "66",
+            "ratTalent" : "81",
+            "baselinePrestige" : "60",
+            "name" : "Matt Campbell",
+            "contractYear" : "1"
+          },
+          "name" : "Iowa State Cyclones",
+          "state" : "Iowa"
+        },
+        {
+          "abbreviation" : "ARMY",
+          "prestige" : "70",
+          "hexColor" : "#917826",
+          "rival" : "ISU",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "46",
+            "ratOff" : "66",
+            "cumulativePrestige" : "2",
+            "ratDef" : "66",
+            "homeState" : "Rhode Island",
+            "ratPot" : "83",
+            "ratTalent" : "87",
+            "baselinePrestige" : "50",
+            "name" : "Jeff Monken",
+            "contractYear" : "1"
+          },
+          "name" : "Army Black Knights",
+          "state" : "New York"
         }
       ],
       "confFullName" : "Pac 12",
