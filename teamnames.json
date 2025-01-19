@@ -135,28 +135,6 @@
           "state" : "Louisiana"
         },
         {
-          "abbreviation" : "ARK",
-          "prestige" : "70",
-          "hexColor" : "#AC0025",
-          "rival" : "MIST",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "47",
-            "ratOff" : "66",
-            "cumulativePrestige" : "1",
-            "ratDef" : "60",
-            "homeState" : "Florida",
-            "ratPot" : "91",
-            "ratTalent" : "57",
-            "baselinePrestige" : "70",
-            "name" : "Sam Pittman",
-            "contractYear" : "1"
-          },
-          "name" : "Arkansas Razorbacks",
-          "state" : "Arkansas"
-        },
-        {
           "abbreviation" : "TAMU",
           "prestige" : "81",
           "hexColor" : "#6A373E",
@@ -252,6 +230,28 @@
     {
       "confTeams" : [
         {
+          "abbreviation" : "ARK",
+          "prestige" : "70",
+          "hexColor" : "#AC0025",
+          "rival" : "MIST",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "47",
+            "ratOff" : "66",
+            "cumulativePrestige" : "1",
+            "ratDef" : "60",
+            "homeState" : "Florida",
+            "ratPot" : "91",
+            "ratTalent" : "57",
+            "baselinePrestige" : "70",
+            "name" : "Sam Pittman",
+            "contractYear" : "1"
+          },
+          "name" : "Arkansas Razorbacks",
+          "state" : "Arkansas"
+        },
+        {
           "abbreviation" : "SC",
           "prestige" : "80",
           "hexColor" : "#680000",
@@ -338,10 +338,32 @@
           },
           "name" : "Kentucky Wildcats",
           "state" : "Kentucky"
+        },
+        {
+          "abbreviation" : "BG",
+          "prestige" : "50",
+          "hexColor" : "#E86000",
+          "rival" : "AKR",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "60",
+            "ratOff" : "65",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "59",
+            "homeState" : "Colorado",
+            "ratPot" : "51",
+            "ratTalent" : "74",
+            "baselinePrestige" : "50",
+            "name" : "Scot Loeffler",
+            "contractYear" : "1"
+          },
+          "name" : "Bowling Green Falcons",
+          "state" : "Kentucky"
         }
       ],
       "confFullName" : "SEC North",
-      "confPrestige" : "90",
+      "confPrestige" : "80",
       "confName" : "SECN"
     },
     {
@@ -727,6 +749,7 @@
           "name" : "NC State Wolfpack",
           "state" : "North Carolina"
         },
+        
       ],
       "confFullName" : "Big 10 South",
       "confPrestige" : "75",
@@ -1189,10 +1212,98 @@
     {
       "confTeams" : [
         {
+          "abbreviation" : "ND",
+          "prestige" : "90",
+          "hexColor" : "#00002D",
+          "rival" : "UL",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "56",
+            "ratOff" : "81",
+            "cumulativePrestige" : "2",
+            "ratDef" : "74",
+            "homeState" : "Mississippi",
+            "ratPot" : "91",
+            "ratTalent" : "65",
+            "baselinePrestige" : "80",
+            "name" : "Marcus Freeman",
+            "contractYear" : "1"
+          },
+          "name" : "Notre Dame Fightin Irish",
+          "state" : "Indiana"
+        },
+        {
+          "abbreviation" : "UMASS",
+          "prestige" : "70",
+          "hexColor" : "#520095",
+          "rival" : "CON",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "53",
+            "ratOff" : "65",
+            "cumulativePrestige" : "2",
+            "ratDef" : "74",
+            "homeState" : "Ohio",
+            "ratPot" : "79",
+            "ratTalent" : "85",
+            "baselinePrestige" : "45",
+            "name" : "Joe Harasymiak",
+            "contractYear" : "1"
+          },
+          "name" : "Massachusetts Minutemen",
+          "state" : "Massachusetts"
+        },
+        {
+          "abbreviation" : "CON",
+          "prestige" : "65",
+          "hexColor" : "#520095",
+          "rival" : "UMASS",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "53",
+            "ratOff" : "65",
+            "cumulativePrestige" : "2",
+            "ratDef" : "74",
+            "homeState" : "Ohio",
+            "ratPot" : "79",
+            "ratTalent" : "85",
+            "baselinePrestige" : "45",
+            "name" : "Jim Mora",
+            "contractYear" : "1"
+          },
+          "name" : "Connecticut Huskies",
+          "state" : "Connecticut"
+        },
+        {
+          "abbreviation" : "SDSU",
+          "prestige" : "70",
+          "hexColor" : "#F70000",
+          "rival" : "HAW",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "52",
+            "ratOff" : "65",
+            "cumulativePrestige" : "-2",
+            "ratDef" : "58",
+            "homeState" : "Wisconsin",
+            "ratPot" : "82",
+            "ratTalent" : "77",
+            "baselinePrestige" : "55",
+            "name" : "Sean Lewis",
+            "contractYear" : "1"
+          },
+          "name" : "San Diego State Aztecs",
+          "state" : "California"
+        },
+        {
           "abbreviation" : "COL",
-          "prestige" : "75",
+          "prestige" : "80",
           "hexColor" : "#9E7500",
-          "rival" : "UMA",
+          "rival" : "COST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2024",
@@ -1212,7 +1323,7 @@
         },
         {
           "abbreviation" : "ORST",
-          "prestige" : "65",
+          "prestige" : "85",
           "hexColor" : "#FF4C00",
           "rival" : "BUFF",
           "headCoach" : {
@@ -1234,7 +1345,7 @@
         },
         {
           "abbreviation" : "WSU",
-          "prestige" : "80",
+          "prestige" : "85",
           "hexColor" : "#BD0000",
           "rival" : "WASH",
           "headCoach" : {
@@ -1297,6 +1408,28 @@
           },
           "name" : "Army Black Knights",
           "state" : "New York"
+        },
+        {
+          "abbreviation" : "COST",
+          "prestige" : "60",
+          "hexColor" : "#005D00",
+          "rival" : "COL",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "59",
+            "ratOff" : "76",
+            "cumulativePrestige" : "2",
+            "ratDef" : "82",
+            "homeState" : "Utah",
+            "ratPot" : "73",
+            "ratTalent" : "86",
+            "baselinePrestige" : "60",
+            "name" : "Jay Norvell",
+            "contractYear" : "1"
+          },
+          "name" : "Colorado State Rams",
+          "state" : "Colorado"
         }
       ],
       "confFullName" : "Pac 12",
@@ -1870,28 +2003,6 @@
           "state" : "Nevada"
         },
         {
-          "abbreviation" : "SDSU",
-          "prestige" : "70",
-          "hexColor" : "#F70000",
-          "rival" : "HAW",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "52",
-            "ratOff" : "65",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "58",
-            "homeState" : "Wisconsin",
-            "ratPot" : "82",
-            "ratTalent" : "77",
-            "baselinePrestige" : "55",
-            "name" : "Sean Lewis",
-            "contractYear" : "1"
-          },
-          "name" : "San Diego State Aztecs",
-          "state" : "California"
-        },
-        {
           "abbreviation" : "SJSU",
           "prestige" : "55",
           "hexColor" : "#FFAA00",
@@ -1934,28 +2045,6 @@
           },
           "name" : "New Mexico State Aggies",
           "state" : "New Mexico"
-        },
-        {
-          "abbreviation" : "COST",
-          "prestige" : "60",
-          "hexColor" : "#005D00",
-          "rival" : "SC",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "59",
-            "ratOff" : "76",
-            "cumulativePrestige" : "2",
-            "ratDef" : "82",
-            "homeState" : "Utah",
-            "ratPot" : "73",
-            "ratTalent" : "86",
-            "baselinePrestige" : "60",
-            "name" : "Jay Norvell",
-            "contractYear" : "1"
-          },
-          "name" : "Colorado State Rams",
-          "state" : "Colorado"
         },
         {
           "abbreviation" : "NEV",
@@ -2161,28 +2250,6 @@
           },
           "name" : "Ball State Cardinals",
           "state" : "Ohio"
-        },
-        {
-          "abbreviation" : "BG",
-          "prestige" : "50",
-          "hexColor" : "#E86000",
-          "rival" : "AKR",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "60",
-            "ratOff" : "65",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "59",
-            "homeState" : "Colorado",
-            "ratPot" : "51",
-            "ratTalent" : "74",
-            "baselinePrestige" : "50",
-            "name" : "Scot Loeffler",
-            "contractYear" : "1"
-          },
-          "name" : "Bowling Green Falcons",
-          "state" : "Kentucky"
         },
         {
           "abbreviation" : "BUFF",
@@ -2686,79 +2753,6 @@
       "confFullName" : "Confence USA",
       "confPrestige" : "70",
       "confName" : "CUSA"
-    },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "ND",
-          "prestige" : "87",
-          "hexColor" : "#00002D",
-          "rival" : "UL",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "56",
-            "ratOff" : "81",
-            "cumulativePrestige" : "2",
-            "ratDef" : "74",
-            "homeState" : "Mississippi",
-            "ratPot" : "91",
-            "ratTalent" : "65",
-            "baselinePrestige" : "80",
-            "name" : "Marcus Freeman",
-            "contractYear" : "1"
-          },
-          "name" : "Notre Dame Fightin Irish",
-          "state" : "Indiana"
-        },
-        {
-          "abbreviation" : "UMASS",
-          "prestige" : "45",
-          "hexColor" : "#520095",
-          "rival" : "CON",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "53",
-            "ratOff" : "65",
-            "cumulativePrestige" : "2",
-            "ratDef" : "74",
-            "homeState" : "Ohio",
-            "ratPot" : "79",
-            "ratTalent" : "85",
-            "baselinePrestige" : "45",
-            "name" : "Joe Harasymiak",
-            "contractYear" : "1"
-          },
-          "name" : "Massachusetts Minutemen",
-          "state" : "Massachusetts"
-        },
-        {
-          "abbreviation" : "CON",
-          "prestige" : "45",
-          "hexColor" : "#520095",
-          "rival" : "UMASS",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "53",
-            "ratOff" : "65",
-            "cumulativePrestige" : "2",
-            "ratDef" : "74",
-            "homeState" : "Ohio",
-            "ratPot" : "79",
-            "ratTalent" : "85",
-            "baselinePrestige" : "45",
-            "name" : "Jim Mora",
-            "contractYear" : "1"
-          },
-          "name" : "Connecticut Huskies",
-          "state" : "Connecticut"
-        }
-      ],
-      "confFullName" : "FSB Independent",
-      "confPrestige" : "79",
-      "confName" : "INDP"
     }
   ],
   "bowlGames" : [
